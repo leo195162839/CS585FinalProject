@@ -1,2 +1,2 @@
-# notepad
-Simple notepad app built using android studio
+# CS585 Final Project by Yuancheng Li
+This is a simple notepad application mainly build for showing how to use Espresso to do android automated UI testing. In This project I worte a automated test for the notepad application, that will perform a series of user action like add new note, discard news note and edit note. The process of the test is fully automated, and will report any ui elements error or text error. This process is done by utilizing the espresso test frame work, which is a open source android ui test automation frame work designed by Google.
