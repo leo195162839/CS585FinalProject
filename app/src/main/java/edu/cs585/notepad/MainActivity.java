@@ -1,5 +1,4 @@
-//dedefish@ncsu.edu
-package com.mycompany.notepad;
+package edu.cs585.notepad;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
@@ -26,7 +25,7 @@ public class MainActivity extends ActionBarActivity {
     static int itemNumber;
     @Override
     //Get everything ready
-protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 

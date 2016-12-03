@@ -1,4 +1,4 @@
-package com.mycompany.notepad;
+package edu.cs585.notepad;
 
 import android.content.Context;
 import android.support.v7.app.ActionBarActivity;
